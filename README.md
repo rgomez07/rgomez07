@@ -44,3 +44,7 @@ My name is Rigoberto Gomez, I am a Community Relations professional with 7 years
 <a href= "https://git-scm.com/">
     <img src="https://camo.githubusercontent.com/bc60041f5ea7b022c6419b73a15aaac12a2ede682867ec0d3e3c9ec374dce54b/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f6769742e706e67"/>
   </a>  
+  
+  <a href= "https://www.heroku.com/">
+    <img src="https://camo.githubusercontent.com/bc60041f5ea7b022c6419b73a15aaac12a2ede682867ec0d3e3c9ec374dce54b/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f6769742e706e67"/>
+  </a>  
