@@ -32,3 +32,7 @@ My name is Rigoberto Gomez, I am a Community Relations professional with 7 years
   <a href= "https://reactjs.org/">
     <img src="https://camo.githubusercontent.com/38b72f440cbf774558b9399b27bf659066e94b1eddc4510a9607ced1f028f6d0/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f72656163742d6e61746976652e706e67"/>
   </a>  
+
+ <a href= "https://redux.js.org/">
+    <img src="https://camo.githubusercontent.com/d3d1874579d4c426185cc3f0b5819d05cad0e3cb0d62ce2b182daea2abab84b3/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f72656475782e706e67"/>
+  </a>  
