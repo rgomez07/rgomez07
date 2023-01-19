@@ -57,4 +57,6 @@ My name is Rigoberto Gomez, I am a Community Relations professional with 7 years
   <a href= "https://webpack.js.org/" target="_blank">
     <img src="https://camo.githubusercontent.com/0a1c9a8f4e2c6dc00e3978597934e948d8d66065ce2d9349249e470ec7f96f5b/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f7765627061636b2e706e67" style="width:40px;height:40px;"/>
   </a> 
-
+  <a href= "https://tailwindcss.com/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png" style="width:40px;height:40px;"/>
+  </a> 
