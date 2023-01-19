@@ -51,4 +51,7 @@ My name is Rigoberto Gomez, I am a Community Relations professional with 7 years
    <a href= "https://expressjs.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" style="width:40px;height:40px;"/>
   </a>  
+  <a href= "https://www.postgresql.org/" target="_blank">
+    <img src="https://camo.githubusercontent.com/ba764960f9e7675596a03726bfde0df88b19b2ce95b5ef707c770e9da3e85f79/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f706f73746772656573716c2e706e67" style="width:40px;height:40px;"/>
+  </a>  
 
