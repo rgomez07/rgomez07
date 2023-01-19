@@ -48,4 +48,7 @@ My name is Rigoberto Gomez, I am a Community Relations professional with 7 years
   <a href= "https://www.heroku.com/">
     <img src="https://camo.githubusercontent.com/ca15623aa9e65e45789b5efa102a8abfa063360adb8d05bb9e048fe496c62850/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f6865726f6b752e706e67"/>
   </a>  
+   <a href= "https://expressjs.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" style="width:40px;height:40px;"/>
+  </a>  
 
