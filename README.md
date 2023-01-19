@@ -16,7 +16,7 @@ My name is Rigoberto Gomez, I am a Community Relations professional with 7 years
 - 📫 How to reach me: e-mail
 - 😄 Pronouns: He/Him/His/El
 - ⚡ Fun fact: I am the last of 12 brothers and sisters
--
+- 
 <h3>Languages and Tools (Under Construction)</h3>
     
  <a href= "https://www.w3schools.com/js/">
