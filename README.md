@@ -77,3 +77,6 @@ My name is Rigoberto Gomez, I am a Community Relations professional with 7 years
    <a href= "https://mui.com/" target="_blank">
     <img src="https://mui.com/static/logo.png" style="width:40px;height:40px;"/>
   </a> 
+    <a href= "https://rapidapi.com/apidojo/api/travel-advisor" target="_blank">
+    <img src="https://rapidapi-prod-apis.s3.amazonaws.com/03d4b62f-887b-4fdf-a885-3be1baec452d.jpg" style="width:40px;height:40px;"/>
+  </a> 
