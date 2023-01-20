@@ -72,5 +72,5 @@ My name is Rigoberto Gomez, I am a Community Relations professional with 7 years
     <img src="https://w7.pngwing.com/pngs/1014/646/png-transparent-google-maps-api-google-maps-navigation-map-app-text-logo-sign-thumbnail.png" style="width:40px;height:40px;"/>
   </a> 
    <a href= "https://developers.google.com/maps/documentation/places/web-service/overview" target="_blank">
-    <img src="https://www.outsystems.com/Forge_BL/rest/ComponentThumbnail/GetURL_ComponentThumbnail?ProjectImageId=33507" style="width:40px;height:40px;"/>
+    <img src="https://banner2.cleanpng.com/20180420/cdq/kisspng-google-maps-google-developers-application-programm-places-5ada5ead5cbca4.8619732815242605253799.jpg" style="width:40px;height:40px;"/>
   </a> 
