@@ -67,9 +67,7 @@ My name is Rigoberto Gomez, I am a Community Relations professional with 7 years
    <a href= "https://www.postman.com/" target="_blank">
     <img src="https://camo.githubusercontent.com/93b32389bf746009ca2370de7fe06c3b5146f4c99d99df65994f9ced0ba41685/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676574706f73746d616e2f676574706f73746d616e2d69636f6e2e737667" style="width:40px;height:40px;"/>
   </a> 
+
    <a href= "https://www.postman.com/" target="_blank">
-    <img src="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_8d58e1295b8ad54a323f7f5ac55e5280/google-maps-api.png" style="width:40px;height:40px;"/>
-  </a> 
-   <a href= "https://www.postman.com/" target="_blank">
-    <img src="https://www.pngitem.com/pimgs/m/178-1787336_google-map-api-png-transparent-png.png" style="width:40px;height:40px;"/>
+    <img src="https://w7.pngwing.com/pngs/1014/646/png-transparent-google-maps-api-google-maps-navigation-map-app-text-logo-sign-thumbnail.png" style="width:40px;height:40px;"/>
   </a> 
