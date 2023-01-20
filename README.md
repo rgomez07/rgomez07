@@ -86,4 +86,4 @@ Contact Me
     <img src="https://rapidapi-prod-apis.s3.amazonaws.com/03d4b62f-887b-4fdf-a885-3be1baec452d.jpg" style="width:40px;height:40px;"/>
   </a> 
   
-[![GitHub Streak](https://streak-stats.demolab.com/?user=rgomez07&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rgomez07&theme=dark&hide_border=true)](https://git.io/streak-stats)
