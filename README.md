@@ -25,9 +25,13 @@ My name is Rigoberto Gomez, I am a Community Relations professional with 7 years
 Contact Me
   
 </h3>
+<br></br>
+
+
+<br></br>
 
 <h3 align="center">Languages and Tools (Under Construction)</h3>
-    
+
  <a href= "https://www.w3schools.com/js/">
     <img src="https://camo.githubusercontent.com/84c2586aa67309f6fa224fdf5fdf33a633239375397a8e753ac1e7cc727f5458/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f6a6176617363726970742d2d76312e706e67"/>
   </a> 
@@ -89,6 +93,10 @@ Contact Me
     <img src="https://rapidapi-prod-apis.s3.amazonaws.com/03d4b62f-887b-4fdf-a885-3be1baec452d.jpg" style="width:40px;height:40px;"/>
   </a> 
   
+  <br></br>
+  
 ![rgomez07's Streak](https://github-readme-streak-stats.herokuapp.com/?user=rgomez07&theme=vue-dark&hide_border=true)
+
+<br></br>
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=rgomez07&theme=onedark)
