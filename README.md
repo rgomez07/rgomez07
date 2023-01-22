@@ -25,8 +25,6 @@ My name is Rigoberto Gomez, I am a Community Relations professional with 7 years
 Contact Me
   
 </h3>
-<br></br>
-
 
 <br></br>
 
