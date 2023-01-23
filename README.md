@@ -31,7 +31,7 @@ Contact Me
  <a href= "https://www.linkedin.com/in/rigoberto-gomez-a9bb618a/" target="_blank">
     <img src="https://www.maryville.edu/wp-content/uploads/2015/11/Linkedin-logo-1-550x550-300x300.png" style="width:40px;height:40px;"/>
   </a> 
-  <a href="rigobertobgomez@gmail.com"> <img src="https://1000logos.net/wp-content/uploads/2021/05/Gmail-logo.png" style="width:55px;height:40px;"> </a>
+  <a href="mailto:rigobertobgomez@gmail.com"> <img src="https://1000logos.net/wp-content/uploads/2021/05/Gmail-logo.png" style="width:55px;height:40px;"> </a>
   
 </div>
 
