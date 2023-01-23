@@ -27,6 +27,9 @@ My name is Rigoberto Gomez, I am a Community Relations professional with 7 years
 Contact Me
   
 </h3>
+ <a href= "https://www.linkedin.com/in/rigoberto-gomez-a9bb618a/" target="_blank">
+    <img src="https://www.maryville.edu/wp-content/uploads/2015/11/Linkedin-logo-1-550x550-300x300.png" style="width:40px;height:40px;"/>
+  </a> 
 
 <br></br>
 
