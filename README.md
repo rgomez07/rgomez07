@@ -15,7 +15,7 @@ My name is Rigoberto Gomez, I am a Community Relations professional with 7 years
   </h3>
 
 - 🔭 I’m currently working on: Profile Website
-- 🌱 I’m currently learning: Typescript
+- 🌱 I’m currently learning: Typescript / Stanford University CS101 Online Course
 - 👯 I’m looking to collaborate on: any project on the PERN tech stack
 - 🤔 I’m looking for help with: referrals for software engineering positions
 - 💬 Ask me about: what does my schedule look like on a day-to-day basis
