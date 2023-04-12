@@ -11,7 +11,7 @@
 </div>
 
 <h3 align="center">
-My name is Rigoberto Gomez, I am a Community Relations professional with 7 years of experience servicing underrepresented communities on Chicago's West side. I am also a self-taught software engineer with a certificate from Fullstack Academy. I am a life-long learner and passionate about Latinos in tech.
+My name is Rigoberto Gomez, I am a self-taught Software Developer with 2 years of experience and a certificate from Fullstack Academy. I am also a passionate Community Relations Manager with 7 years of experience servicing underrepresented communities on Chicago's West side. I am a life-long learner and passionate about Latinos in tech.
   </h3>
 
 - 🔭 I’m currently working on: Profile Website
